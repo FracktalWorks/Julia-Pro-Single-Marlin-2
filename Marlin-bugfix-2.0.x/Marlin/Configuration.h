@@ -1753,7 +1753,8 @@
 
 // Manually set the home position. Leave these undefined for automatic settings.
 // For DELTA this is the top-center of the Cartesian print volume.
-#define MANUAL_X_HOME_POS -5
+#define MANUAL_X_HOME_POS -20 //-40 //5 Values taken from Marlin 119 for Pro Single 2018
+#define HOME_OFFSET_Y -10 //Values taken from Marlin 119 for Pro Single 2018
 //#define MANUAL_Y_HOME_POS 0
 //#define MANUAL_Z_HOME_POS 0
 //#define MANUAL_I_HOME_POS 0
