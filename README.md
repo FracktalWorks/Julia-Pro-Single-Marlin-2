@@ -2,6 +2,8 @@
 
 Note: 06-09-2024: Currently this 2.1.2.1 Firmware is solely for the Pro Single with MKS2.1 with the new leadscrews.
 
+Machine Serial: LovingCanary
+
 In the future this setup will be replaced by the Eagle Marlin 2.1.2.1 branch.
 
 Hardware requirements
