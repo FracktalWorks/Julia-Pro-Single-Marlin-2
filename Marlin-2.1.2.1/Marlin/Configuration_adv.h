@@ -2757,9 +2757,9 @@
   #endif
 
   #if AXIS_IS_TMC_CONFIG(Z)
-    #define Z_CURRENT       1800    //FW
+    #define Z_CURRENT       1400    //FW
     #define Z_CURRENT_HOME  Z_CURRENT
-    #define Z_MICROSTEPS     8
+    #define Z_MICROSTEPS      4
     #define Z_RSENSE          0.11
     #define Z_CHAIN_POS      -1
     //#define Z_INTERPOLATE  true
