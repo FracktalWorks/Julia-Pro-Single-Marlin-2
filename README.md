@@ -1,5 +1,9 @@
 # Julia-Pro-Dual-Marlin-2
 
+Note: 06-09-2024: Currently this 2.1.2.1 Firmware is solely for the Pro Single with MKS2.1 with the new leadscrews.
+
+In the future this setup will be replaced by the Eagle Marlin 2.1.2.1 branch.
+
 Hardware requirements
 
 1. ABL Board- Julia ABL Board.brd
